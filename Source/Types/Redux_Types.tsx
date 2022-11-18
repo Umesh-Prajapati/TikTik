@@ -1,0 +1,7 @@
+export const USERPROFILE_Type = 'userprofile'
+export const USER_LOGIN_Type = 'userLoginState'
+export const HomePost_Type = 'homePostData'
+export const MY_PROFILE_Type = 'myProfile'
+export const OTHER_USER_PROFILE_POST_Type = 'OtherUserProfile_Post'
+export const SEARCH_IMAGE_POST_Type = 'SearchImagePost'
+export const NOTIFICATION_IMAGE_POST_Type = 'NotificationImagePOst'
